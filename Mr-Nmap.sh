@@ -21,7 +21,7 @@ ${GREEN}
     *     Do not use it for illegal activities!     *
     *************************************************
      Author:  Winston Ighodaro
-     Tiktok:  ${BLUE}https://tiktok.com/cybergen2${GREEN}
+     Twitter: ${BLUE}https://twitter.com/officialwhyte22${GREEN}
      Website: ${BLUE}https://cybergeneration.tech${NC}
 "
 
